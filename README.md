@@ -14,4 +14,4 @@ Mostly random javascript projects to increase my bookshelf of knowledges.
 * [Website](https://nocturnal.sh/)
 * [Discord](https://discord.bio/p/nocturnal)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nocturnxl&compat=true&theme=dracula)
+[![Nocturnxl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nocturnxl)](https://github.com/anuraghazra/github-readme-stats)
