@@ -2,6 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Nocturnxl)
 ![Discord (Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/637613415057195008?simple=true&logo=discord&logoColor=white&color=43B581) ![Discord (Spotify)](https://img.shields.io/endpoint?label=Listening%20To&url=https://dev.discordprofiles.me/api/badge/spotify/637613415057195008&color=1ED45F)
+![LastCommit](https://img.shields.io/github/last-commit/Nocturnxl/useful-tools)
 
 ### 🔭 I’m currently working on
 Mostly random javascript projects to increase my bookshelf of knowledges.
