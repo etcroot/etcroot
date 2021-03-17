@@ -16,4 +16,4 @@ Mostly random javascript projects to increase my bookshelf of knowledges.
 
 [![Nocturnxl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nocturnxl&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nocturnxl&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nocturnxl&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
