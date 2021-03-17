@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there, I'm Nocturnal 👋
 
 ![](https://komarev.com/ghpvc/?username=Nocturnxl)
 
@@ -7,13 +7,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=13ywnzwgosfqntldplcb3yg14&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
+### 🔭 I’m currently working on
+Mostly random javascript projects to increase my bookshelf of knowledges.
+
+### 🌱 I’m currently learning 
+* React
+* NextJS
+* MongoDB
+
+### 📫 How to reach me: 
+* [Website](https://nocturnal.sh/)
+* [Discord](https://discord.bio/p/nocturnal)
