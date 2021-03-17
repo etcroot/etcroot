@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=Nocturnxl) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=13ywnzwgosfqntldplcb3yg14&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+![](https://komarev.com/ghpvc/?username=Nocturnxl)
 
 <!--
 **Nocturnxl/Nocturnxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+
+
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=13ywnzwgosfqntldplcb3yg14&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
