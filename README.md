@@ -13,3 +13,5 @@ Mostly random javascript projects to increase my bookshelf of knowledges.
 ### 📫 How to reach me: 
 * [Website](https://nocturnal.sh/)
 * [Discord](https://discord.bio/p/nocturnal)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nocturnxl&compat=true&theme=dracula)
