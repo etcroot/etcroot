@@ -15,3 +15,4 @@ Mostly random javascript projects to increase my bookshelf of knowledges.
 * [Discord](https://discord.bio/p/nocturnal)
 
 [![Nocturnxl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nocturnxl&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nocturnxl&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
