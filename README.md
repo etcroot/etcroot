@@ -14,6 +14,7 @@ Mostly random javascript projects to increase my bookshelf of knowledges.
 
 ### 📫 How to reach me: 
 * [Website](https://etcroot.dev/)
+* [Repo Website](https://etcroot.github.io/etcroot/)
 * [Discord](https://discord.bio/p/nocturnal)
 
 [![Nocturnxl's GitHub stats](https://github-readme-stats.vercel.app/api?username=etcroot&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
