@@ -13,7 +13,7 @@ Mostly random javascript projects to increase my bookshelf of knowledges.
 * MongoDB
 
 ### 📫 How to reach me: 
-* [Website](https://etcroot.dev/)
+* [Website](https://etcroot.dev/) *Currently In Developement*
 * [Repo Website](https://etcroot.github.io/etcroot/)
 * [Discord](https://discord.bio/p/nocturnal)
 
