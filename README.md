@@ -18,3 +18,7 @@ Mostly random javascript projects to increase my bookshelf of knowledges.
 * [Discord](https://discord.bio/p/nocturnal)
 
 [![Nocturnxl's GitHub stats](https://github-readme-stats.vercel.app/api?username=etcroot&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### Recommended Tools
+
+![useful-tools](https://socialify.git.ci/etcroot/useful-tools/image?description=1&font=Inter&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
