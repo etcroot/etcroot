@@ -8,9 +8,8 @@
 Mostly random javascript projects to increase my bookshelf of knowledges.
 
 ### 🌱 I’m currently learning 
-* React
-* NextJS
-* MongoDB
+* Java
+* Minecraft Plugin Developement
 
 ### 📫 How to reach me: 
 * [Website](https://etcroot.dev/) *Currently In Developement*
