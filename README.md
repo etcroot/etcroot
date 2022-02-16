@@ -5,7 +5,8 @@
 ![LastCommit](https://img.shields.io/github/last-commit/etcroot/etcroot)
 
 ### 🔭 I’m currently working on
-Mostly random javascript projects to increase my bookshelf of knowledges.
+* My personal site
+* Freelancing client projects
 
 ### 🌱 I’m currently learning 
 * Java
