@@ -9,8 +9,9 @@
 * Freelancing client projects
 
 ### 🌱 I’m currently learning 
-* Java
-* Minecraft Plugin Developement
+* Python machine learning algorithms
+* NodeJS backend
+* Firebase 🔥
 
 ### 📫 How to reach me: 
 * [Website](https://etcroot.dev/) *Currently In Developement*
