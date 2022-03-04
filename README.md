@@ -13,7 +13,7 @@ I'm a full stack web developer, linux sys admin, photographer, designer & tech e
 - Neural networks with javascript
 
 ## 🛠 Skills
-Javascript, HTML, CSS, C++, C#, Python, LUA, SQL
+Javascript, HTML, CSS, C++, C#, Python, LUA, SQL & JAVA
 
 ## ⚡ Tech I Use Frequently
 - [NextJS](https://nextjs.org/)
