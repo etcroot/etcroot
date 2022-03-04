@@ -1,21 +1,25 @@
-## Hi there, I'm etcroot 👋
+# Hi, I'm etcroot! 
 
-![](https://komarev.com/ghpvc/?username=etcroot)
-![Discord (Status)](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/637613415057195008?simple=true&logo=discord&logoColor=white&color=43B581) ![Discord (Spotify)](https://img.shields.io/endpoint?label=Listening%20To&url=https://dev.discordprofiles.me/api/badge/spotify/637613415057195008&color=1ED45F)
-![LastCommit](https://img.shields.io/github/last-commit/etcroot/etcroot)
+## 🚀 About Me
+I'm a full stack web developer, linux sys admin, photographer, designer & tech enthusiast. On my spare time I like to code various projects, read philosophy & play games.
 
-### 🔭 I’m currently working on
-* My personal site
-* Freelancing client projects
+👩‍💻 I'm currently working on...
+- Freelancing
+- Personal site
+- My dev group
 
-### 🌱 I’m currently learning 
-* Python machine learning algorithms
-* NodeJS backend
-* Firebase 🔥
+🧠 I'm currently learning...
+- Machine learning
+- Neural networks with javascript
 
-### 📫 How to reach me: 
-* [Website](https://etcroot.dev/) *Currently In Developement*
-* [Repo Website](https://etcroot.github.io/etcroot/)
-* [Discord](https://discord.bio/p/nocturnal)
+## 🛠 Skills
+Javascript, HTML, CSS, C++, C#, Python, LUA, SQL
 
-[![Nocturnxl's GitHub stats](https://github-readme-stats.vercel.app/api?username=etcroot&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## ⚡ Tech I Use Frequently
+- [NextJS](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [Firebase](https://firebase.google.com/)
+- [Ubuntu](https://ubuntu.com/)
+- [Framer Motion](https://www.framer.com/motion/)
