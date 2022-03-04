@@ -3,12 +3,12 @@
 ## 🚀 About Me
 I'm a full stack web developer, linux sys admin, photographer, designer & tech enthusiast. On my spare time I like to code various projects, read philosophy & play games.
 
-👩‍💻 I'm currently working on...
+👩‍💻 **I'm currently working on...**
 - Freelancing
 - Personal site
 - My dev group
 
-🧠 I'm currently learning...
+🧠 **I'm currently learning...**
 - Machine learning
 - Neural networks with javascript
 
