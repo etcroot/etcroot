@@ -23,3 +23,5 @@ I'm a full stack web developer, linux sys admin, photographer, designer & tech e
 - [Firebase](https://firebase.google.com/)
 - [Ubuntu](https://ubuntu.com/)
 - [Framer Motion](https://www.framer.com/motion/)
+
+Also, if you really feel like it, feel free to support me at [Buy Me A Coffee](https://www.buymeacoffee.com/etcroot). I'd really appreciate any type of contribution to help me progress in the developement industry!
