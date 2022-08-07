@@ -10,7 +10,7 @@ I'm a full stack web developer, linux sys admin, photographer, designer & tech e
 
 🧠 **I'm currently learning...**
 - Machine learning
-- Neural networks with javascript
+- Neural networks
 
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=java,nodejs,ae,cs,cpp,cloudflare,css,git,html,js,linux,md,mongodb,mysql,nextjs,ps,pr,prisma,react,sass,tailwind,ts,unity,wordpress&theme=dark)](https://skillicons.dev)
