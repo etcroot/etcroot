@@ -4,8 +4,8 @@
 I'm a full stack web developer, linux sys admin, photographer, designer & tech enthusiast. On my spare time I like to code various projects, read philosophy & play games.
 
 👩‍💻 **I'm currently working on...**
+- [PassVault](https://github.com/Vectr-Labs/PassVault/)
 - Freelancing
-- Personal site
 - My dev group
 
 🧠 **I'm currently learning...**
