@@ -12,7 +12,7 @@ I'm a full stack web developer, linux sys admin, photographer, designer & tech e
 - Machine learning
 - Neural networks
 
-## 🛠 Skills
+## 🛠 Skills / Tools I Use
 [![My Skills](https://skillicons.dev/icons?i=java,nodejs,rust,ae,cs,cpp,cloudflare,css,git,html,js,linux,md,mongodb,mysql,nextjs,ps,pr,prisma,react,sass,tailwind,ts,unity,wordpress,bootstrap,discord,codepen,bots,express,firebase,github,git,graphql,lua,md,sqlite,supabase,tauri,vercel,vscode,vite,webpack&theme=dark)](https://skillicons.dev)
 
 ## ⚡ Tech I Use Frequently
