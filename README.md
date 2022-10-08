@@ -1,6 +1,6 @@
 # Hi, I'm etcroot! 
 
-## 💬 Daily Quote
+## 💬 Random Quotes
 ![QUOTES](https://quotier.vercel.app/quote)
 
 ## 🚀 About Me
