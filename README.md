@@ -1,8 +1,5 @@
 # Hi, I'm etcroot! 
 
-## 💬 Random Quotes
-![QUOTES](https://quotier.vercel.app/quote)
-
 ## 🚀 About Me
 I'm a full stack web developer, linux sys admin, photographer, designer & tech enthusiast. On my spare time I like to code various projects, read philosophy & play games.
 
