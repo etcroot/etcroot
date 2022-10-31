@@ -4,9 +4,7 @@
 I'm a full stack web developer, linux sys admin, photographer, designer & tech enthusiast. On my spare time I like to code various projects, read philosophy & play games.
 
 👩‍💻 **I'm currently working on...**
-- [PassVault](https://github.com/Vectr-Labs/PassVault/)
-- Freelancing
-- My dev group
+- DBM RDS v2
 
 🧠 **I'm currently learning...**
 - Machine learning
