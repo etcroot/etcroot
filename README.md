@@ -1,7 +1,11 @@
 # Hi, I'm etcroot! 
 
 ## 🚀 About Me
-Hello! My online alias is etcroot and I am a full stack web developer based in Sweden. I have a strong passion for programming and have been self-taught for the past 8+ years. I have experience in a variety of programming languages and frameworks, and am always looking to expand my knowledge and skills in the field of web development. In my free time, I enjoy playing video games and exploring my interests in photography, design, and technology. Thank you for visiting my GitHub profile and getting to know a little bit about me. Please feel free to browse through my projects and work to see some of my past experience and accomplishments.
+Greetings!
+
+I am etcroot, a seasoned full-stack web developer hailing from Sweden. With over eight years of self-taught programming experience, I possess an unwavering passion for coding. My repertoire includes diverse programming languages and frameworks, and I am constantly pursuing opportunities to broaden my expertise in web development.
+
+Beyond my work, I indulge in my hobbies, including video games and exploring my fascination with photography, design, and technology. Thank you for taking the time to visit my GitHub profile and learning a bit about me. Please feel free to browse through my past projects and work to gain insight into my experience and accomplishments.
 
 👩‍💻 **I'm currently working on...**
 - DBM RDS v2
