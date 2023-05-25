@@ -8,7 +8,7 @@ I am etcroot, a seasoned full-stack web developer hailing from Sweden. With over
 Beyond my work, I indulge in my hobbies, including video games and exploring my fascination with photography, design, and technology. Thank you for taking the time to visit my GitHub profile and learning a bit about me. Please feel free to browse through my past projects and work to gain insight into my experience and accomplishments.
 
 👩‍💻 **I'm currently working on...**
-- DBM RDS v2
+- Dreamlabs
 
 🧠 **I'm currently learning...**
 - Machine learning
