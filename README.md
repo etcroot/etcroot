@@ -16,7 +16,7 @@ Beyond my work, I indulge in my hobbies, including video games and exploring my 
 - 3D Design
 
 ## 🛠 Skills / Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=java,nodejs,rust,ae,cs,cpp,cloudflare,css,git,html,js,linux,md,mongodb,mysql,nextjs,ps,pr,prisma,react,sass,tailwind,ts,unity,wordpress,bootstrap,discord,codepen,bots,express,firebase,github,git,graphql,lua,md,sqlite,supabase,tauri,vercel,vscode,vite,webpack&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,blender,bootstrap,cs,cpp,cloudflare,css,discord,bots,electron,express,firebase,github,html,ai,java,js,linux,md,mongodb,mysql,nextjs,nodejs,ps,pr,prisma,react,sqlite,supabase,svelte,tailwind,unity,unreal,vercel,vscode,visualstudio,webpack,wordpress&theme=dark)](https://skillicons.dev)
 
 ## ⚡ Tech I Use Frequently
 - [NextJS](https://nextjs.org/)
