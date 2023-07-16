@@ -3,7 +3,7 @@
 ## 🚀 About Me
 Greetings!
 
-I am etcroot, a seasoned full-stack web developer hailing from Sweden. With over eight years of self-taught programming experience, I possess an unwavering passion for coding. My repertoire includes diverse programming languages and frameworks, and I am constantly pursuing opportunities to broaden my expertise in web development.
+I am etcroot, a seasoned full-stack web developer hailing from Sweden. With over 10 years of self-taught programming experience, I possess an unwavering passion for coding. My repertoire includes diverse programming languages and frameworks, and I am constantly pursuing opportunities to broaden my expertise in web development.
 
 Beyond my work, I indulge in my hobbies, including video games and exploring my fascination with photography, design, and technology. Thank you for taking the time to visit my GitHub profile and learning a bit about me. Please feel free to browse through my past projects and work to gain insight into my experience and accomplishments.
 
